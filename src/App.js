@@ -9,8 +9,9 @@ class App extends React.Component {
     return (
       <>
         <Header />
-        <SolarSystem />
-        <Title titulo={ headline }/>
+        <SolarSystem>
+          <Title titulo="Planetas" />
+        </SolarSystem>
       </>
     );
   }

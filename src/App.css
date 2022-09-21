@@ -1,14 +1,3 @@
 header {
   text-align: center;
-  background-color: rgb(50, 47, 47);
-}
-
-.titulo {
-  position: absolute;
-  width: 425.69px;
-  height: 242.72px;
-  left: 461.8px;
-  top: 41.94px;
-  background: #FFFFFF;
-  /* transform: matrix(1, 0, 0.01, 1, 0, 0); */
 }
